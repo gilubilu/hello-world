@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T09:57:27.629Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="hqtqH9-sc8LOH1h_JShr" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T12:01:17.464Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="L_eC6RraOrPxBvHJ6ZZf" version="19.0.0" type="github">
   <diagram id="UuINoagajCsAjQXCb1hG" name="Page-1">
     <mxGraphModel dx="1668" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,23 +52,29 @@
         <mxCell id="0aMMqWP5mhxlDu2Pbyt3-1" value="Document Project Request and High Level Requirements&lt;br&gt;&lt;a href=&quot;http://confluence.corporate.intra:8080/x/ZAHLC&quot;&gt;Link&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-546" y="80" width="215" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DL_FCc7b85vxlmxTuk_l-1" value="Create Corporate Project Code" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="DL_FCc7b85vxlmxTuk_l-1" value="Create Corporate Project Code" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-110" y="317" width="144" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DL_FCc7b85vxlmxTuk_l-2" value="Create project page with BRD via Template" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="DL_FCc7b85vxlmxTuk_l-2" value="Create project page with BRD via Template" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-110" y="427" width="144" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DL_FCc7b85vxlmxTuk_l-3" value="Detailed analysis with architects for final solution" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="DL_FCc7b85vxlmxTuk_l-3" value="Detailed analysis with architects for final solution" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-111" y="537" width="144" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DL_FCc7b85vxlmxTuk_l-4" value="Compile Information Security Risk Assessment&lt;br&gt;and attach outcome to BRD -&amp;nbsp;&lt;a href=&quot;http://confluence.corporate.intra:8080/x/NIj8Bg&quot;&gt;Link&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="DL_FCc7b85vxlmxTuk_l-4" value="Compile and attach Information Security Risk Assessment&lt;br&gt;and attach outcome to BRD -&amp;nbsp;&lt;a href=&quot;http://confluence.corporate.intra:8080/x/NIj8Bg&quot;&gt;Link&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-110" y="647" width="144" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DL_FCc7b85vxlmxTuk_l-5" value="Inform all parties in BRD with high level details and solution being proposed" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="DL_FCc7b85vxlmxTuk_l-5" value="Inform all parties in BRD with high level details and solution being proposed" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-111" y="757" width="144" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="DL_FCc7b85vxlmxTuk_l-6" value="Share BRD link with project sponsor" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="DL_FCc7b85vxlmxTuk_l-6" value="Share BRD link with project sponsor" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-111" y="867" width="144" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-1" value="Keep BRD updated (minutes, testing, tech. details, etc.)" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="-111" y="977" width="144" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-2" value="Communicate project closure with sponsor and close off BRD" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="-111" y="1087" width="144" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
