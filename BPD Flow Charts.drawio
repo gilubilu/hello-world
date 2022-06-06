@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T12:01:17.464Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="L_eC6RraOrPxBvHJ6ZZf" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T12:07:22.141Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DKaQiNGoaEHtNOcMTBCG" version="19.0.0" type="github">
   <diagram id="UuINoagajCsAjQXCb1hG" name="Page-1">
     <mxGraphModel dx="1668" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,20 +25,32 @@
         <mxCell id="a5484PJUVfSCDonEMbwy-3" value="Is it a Quick Initiative??" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-486" y="260" width="94" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="a5484PJUVfSCDonEMbwy-4" target="QTm_D1VfI3Hyz9MsJBKu-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a5484PJUVfSCDonEMbwy-4" value="Quick Initiative&lt;br&gt;Process" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-539" y="360" width="94" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a5484PJUVfSCDonEMbwy-5" value="Regular Project Process" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-433" y="360" width="94" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a5484PJUVfSCDonEMbwy-14" target="a5484PJUVfSCDonEMbwy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a5484PJUVfSCDonEMbwy-14" value="Regular Project Process" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="8" width="143" height="50" as="geometry" />
+          <mxGeometry x="-243" y="-46" width="143" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a5484PJUVfSCDonEMbwy-16" target="DL_FCc7b85vxlmxTuk_l-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5484PJUVfSCDonEMbwy-16" value="PO/PM Confirmed" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
-          <mxGeometry x="-111" y="207" width="144" height="68" as="geometry" />
+          <mxGeometry x="-243.5" y="156" width="144" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a5484PJUVfSCDonEMbwy-17" target="a5484PJUVfSCDonEMbwy-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a5484PJUVfSCDonEMbwy-17" value="Project onboarding and prioritization is required" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="97" width="144" height="68" as="geometry" />
+          <mxGeometry x="-243" y="51" width="144" height="68" as="geometry" />
         </mxCell>
         <mxCell id="a5484PJUVfSCDonEMbwy-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" source="a5484PJUVfSCDonEMbwy-25" target="a5484PJUVfSCDonEMbwy-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,29 +64,59 @@
         <mxCell id="0aMMqWP5mhxlDu2Pbyt3-1" value="Document Project Request and High Level Requirements&lt;br&gt;&lt;a href=&quot;http://confluence.corporate.intra:8080/x/ZAHLC&quot;&gt;Link&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
           <mxGeometry x="-546" y="80" width="215" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DL_FCc7b85vxlmxTuk_l-1" target="DL_FCc7b85vxlmxTuk_l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DL_FCc7b85vxlmxTuk_l-1" value="Create Corporate Project Code" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="317" width="144" height="68" as="geometry" />
+          <mxGeometry x="-243" y="262" width="144" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DL_FCc7b85vxlmxTuk_l-2" target="DL_FCc7b85vxlmxTuk_l-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DL_FCc7b85vxlmxTuk_l-2" value="Create project page with BRD via Template" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="427" width="144" height="68" as="geometry" />
+          <mxGeometry x="-243" y="367" width="144" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DL_FCc7b85vxlmxTuk_l-3" target="DL_FCc7b85vxlmxTuk_l-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DL_FCc7b85vxlmxTuk_l-3" value="Detailed analysis with architects for final solution" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
-          <mxGeometry x="-111" y="537" width="144" height="68" as="geometry" />
+          <mxGeometry x="-243" y="473" width="144" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DL_FCc7b85vxlmxTuk_l-4" target="DL_FCc7b85vxlmxTuk_l-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DL_FCc7b85vxlmxTuk_l-4" value="Compile and attach Information Security Risk Assessment&lt;br&gt;and attach outcome to BRD -&amp;nbsp;&lt;a href=&quot;http://confluence.corporate.intra:8080/x/NIj8Bg&quot;&gt;Link&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="647" width="144" height="68" as="geometry" />
+          <mxGeometry x="-243" y="578" width="144" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DL_FCc7b85vxlmxTuk_l-5" target="DL_FCc7b85vxlmxTuk_l-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DL_FCc7b85vxlmxTuk_l-5" value="Inform all parties in BRD with high level details and solution being proposed" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
-          <mxGeometry x="-111" y="757" width="144" height="68" as="geometry" />
+          <mxGeometry x="-243" y="684" width="144" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DL_FCc7b85vxlmxTuk_l-6" target="QTm_D1VfI3Hyz9MsJBKu-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DL_FCc7b85vxlmxTuk_l-6" value="Share BRD link with project sponsor" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" parent="1" vertex="1">
-          <mxGeometry x="-111" y="867" width="144" height="68" as="geometry" />
+          <mxGeometry x="-243" y="789" width="144" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTm_D1VfI3Hyz9MsJBKu-1" target="QTm_D1VfI3Hyz9MsJBKu-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QTm_D1VfI3Hyz9MsJBKu-1" value="Keep BRD updated (minutes, testing, tech. details, etc.)" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="-111" y="977" width="144" height="68" as="geometry" />
+          <mxGeometry x="-243" y="895" width="144" height="68" as="geometry" />
         </mxCell>
         <mxCell id="QTm_D1VfI3Hyz9MsJBKu-2" value="Communicate project closure with sponsor and close off BRD" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="-111" y="1087" width="144" height="68" as="geometry" />
+          <mxGeometry x="-243" y="1000" width="144" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;A&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-515" y="450" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="QTm_D1VfI3Hyz9MsJBKu-15" target="a5484PJUVfSCDonEMbwy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTm_D1VfI3Hyz9MsJBKu-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;A&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-194.5" y="-149" width="46" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
